@@ -1,0 +1,19 @@
+h3{
+    font-size:25px;
+}
+.btn-primary:hover{
+    background-color:burlywood;
+}
+canvas{
+    animation-name:example;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+@keyframes example{
+    from{box-shadow:1px 1px 38px crimson;}
+    to{box-shadow:1px 1px 38px bisque;}
+}
+body{
+    background-image:"roblox backgroundxd.jpg";
+    background-size:cover;
+}
